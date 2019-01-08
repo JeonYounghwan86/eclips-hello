@@ -5,5 +5,6 @@ public class PushPrint {
 		System.out.println("add javaclass Push");
 		System.out.println("World with Miku");
 		System.out.println("world with 42");
+		System.out.println("we are the world");
 	}
 }
