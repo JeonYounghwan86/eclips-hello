@@ -7,6 +7,10 @@ public class HelloWorld {
 		System.out.println("World's The End~~~~~~~~~");
 		System.out.println("TEST The End");
 		System.out.println("World's Hell");
+		System.out.println("World's Hell");
+		System.out.println("World's Hell");
+		System.out.println("World's Hell");
+		System.out.println("World's Hell");
 	}
 
 }
